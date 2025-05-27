@@ -1,4 +1,4 @@
-# Velocity-Cycles-Power-BI
+# Velocity Cycles - Power BI
 #### This repository contains screenshots from my Power BI implementation analyzing the business performance of Velocity Cycles. A multidimensional OLAP cube was developed using Visual Studio to model complex relationships within the data warehouse. The full interactive solution will be published soon to enable deeper insights and enhanced user engagement.
 
 ## Sales Dashboard
